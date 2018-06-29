@@ -1,4 +1,4 @@
-const clientId = 'i1HmNfSIn_t5C0S4Bze8Jw';
+/* const clientId = 'i1HmNfSIn_t5C0S4Bze8Jw'; */
 const apiKey = '5g7bf3Tw5L2Qx1Q9ElHODq-8IHKB5IxPhSrMkIZdM_EHHlb0QHO_xxnjPIDandPYHfpukk79ngX6kzzSkvOS_A0kxoK8RH556gJaEaM41v8GrPTUQeJ0kowsT7wqW3Yx';
 
 let Yelp = {
